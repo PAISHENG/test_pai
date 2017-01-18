@@ -10,6 +10,7 @@ public class Cat {
 		this.name = name;
 	}
 
+	
 	public int getWeight() {   // weight
 		return weight.
 
