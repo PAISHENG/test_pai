@@ -15,7 +15,7 @@ public class Cat {
 	}
 
 	public void setWeight(int weight) {  // weight
-		this.weig ht = weight;
+		this.weight = weight;
 	}
 
 	public String getCatName() {   // catName
