@@ -18,7 +18,7 @@ public class Cat {
 		this.weight = weight;
 	}
 
-	public String getCatName() {   // catName
+	pub lic String getCatName() {   // catName
 		return name;
 	}
 
