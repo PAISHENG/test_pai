@@ -11,8 +11,7 @@ public class Cat {
 	}
 
 	public int getWeight() {   // weight
-		return weight;
-	}
+		return weight.
 
 	public void setWeight(int weight) {  // weight
 		this.weight = weight;
