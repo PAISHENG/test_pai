@@ -9,7 +9,7 @@ public class Cat {
 		this.weight = weight;
 		this.name = name;
 	}
-
+gggfgfg
 	
 	public int getWeight() {   // weight
 		return weight.
